@@ -1,0 +1,3 @@
+Z:/Biblioteca/Documentos/My Projects/C/MaiorPrimo/cmake-build-debug/CMakeFiles/MaiorPrimo.dir
+Z:/Biblioteca/Documentos/My Projects/C/MaiorPrimo/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/Biblioteca/Documentos/My Projects/C/MaiorPrimo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
